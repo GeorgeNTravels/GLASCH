@@ -1,0 +1,61 @@
+destination,date,airline,flightnumber,departuretime,arrivaltime
+Agadir,2024-04-02,easyJet,EZY3115,15:20,18:40
+Agadir,2024-04-09,easyJet,EZY3115,15:20,18:40
+Agadir,2024-04-16,easyJet,EZY3115,15:20,18:40
+Agadir,2024-04-23,easyJet,EZY3115,15:20,18:40
+Agadir,2024-04-30,easyJet,EZY3115,15:20,18:40
+Alicante,2024-04-02,easyJet Europe,EJU5508,10:30,14:35
+Alicante,2024-04-03,easyJet Europe,EJU5508,20:10,0:20
+Alicante,2024-04-04,easyJet Europe,EJU5508,20:10,0:20
+Alicante,2024-04-06,easyJet Europe,EJU5508,10:45,14:50
+Alicante,2024-04-07,easyJet Europe,EJU5508,9:45,13:50
+Alicante,2024-04-09,easyJet Europe,EJU5508,10:30,14:35
+Alicante,2024-04-10,easyJet Europe,EJU5508,20:10,0:20
+Alicante,2024-04-11,easyJet Europe,EJU5508,20:10,0:20
+Alicante,2024-04-13,easyJet Europe,EJU5508,10:45,14:50
+Alicante,2024-04-14,easyJet Europe,EJU5508,9:45,13:50
+Alicante,2024-04-16,easyJet Europe,EJU5508,10:30,14:35
+Alicante,2024-04-17,easyJet Europe,EJU5508,20:10,0:20
+Alicante,2024-04-18,easyJet Europe,EJU5508,20:10,0:20
+Alicante,2024-04-20,easyJet Europe,EJU5508,10:45,14:50
+Alicante,2024-04-21,easyJet Europe,EJU5508,9:45,13:50
+Alicante,2024-04-23,easyJet Europe,EJU5508,10:30,14:35
+Alicante,2024-04-24,easyJet Europe,EJU5508,20:10,0:20
+Alicante,2024-04-25,easyJet Europe,EJU5508,20:10,0:20
+Alicante,2024-04-27,easyJet Europe,EJU5508,10:45,14:50
+Alicante,2024-04-28,easyJet Europe,EJU5508,9:45,13:50
+Alicante,2024-04-30,easyJet Europe,EJU5508,10:30,14:35
+Alicante,2024-04-01,Jet2,LS177,7:15,11:30
+Alicante,2024-04-02,Jet2,LS177,7:15,11:30
+Alicante,2024-04-02,TUI,BY1246,6:35,10:40
+Alicante,2024-04-05,Jet2,LS177,7:15,11:30
+Alicante,2024-04-06,Jet2,LS177,7:15,11:30
+Alicante,2024-04-07,Jet2,LS177,7:15,11:30
+Alicante,2024-04-07,TUI,BY1632,7:00,11:05
+Alicante,2024-04-09,TUI,BY1246,6:35,10:40
+Alicante,2024-04-13,TUI,BY1632,7:00,11:05
+Alicante,2024-04-16,TUI,BY1246,6:35,10:40
+Alicante,2024-04-20,TUI,BY1632,7:00,11:05
+Alicante,2024-04-23,TUI,BY1246,6:35,10:40
+Alicante,2024-04-27,TUI,BY1632,7:00,11:05
+Alicante,2024-04-30,TUI,BY1246,6:35,10:40
+Alicante,2024-04-08,Jet2,LS177,7:15,11:30
+Alicante,2024-04-09,Jet2,LS177,7:15,11:30
+Alicante,2024-04-11,Jet2,LS177,7:15,11:30
+Alicante,2024-04-12,Jet2,LS177,7:15,11:30
+Alicante,2024-04-13,Jet2,LS177,7:15,11:30
+Alicante,2024-04-14,Jet2,LS177,7:15,11:30
+Alicante,2024-04-15,Jet2,LS177,7:15,11:30
+Alicante,2024-04-16,Jet2,LS177,7:15,11:30
+Alicante,2024-04-18,Jet2,LS177,7:15,11:30
+Alicante,2024-04-19,Jet2,LS177,7:15,11:30
+Alicante,2024-04-20,Jet2,LS177,7:15,11:30
+Alicante,2024-04-21,Jet2,LS177,7:15,11:30
+Alicante,2024-04-22,Jet2,LS177,7:15,11:30
+Alicante,2024-04-23,Jet2,LS177,7:15,11:30
+Alicante,2024-04-25,Jet2,LS177,7:15,11:30
+Alicante,2024-04-26,Jet2,LS177,7:15,11:30
+Alicante,2024-04-27,Jet2,LS177,7:15,11:30
+Alicante,2024-04-28,Jet2,LS177,7:15,11:30
+Alicante,2024-04-29,Jet2,LS177,7:15,11:30
+Alicante,2024-04-30,Jet2,LS177,7:15,11:30
